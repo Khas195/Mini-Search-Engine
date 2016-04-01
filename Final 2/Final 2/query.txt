@@ -1,0 +1,15 @@
+Facebook AND google OR Yahoo AND bing
+facebook AND google AND zerg 
+zerg AND protoss AND terran
+zerg AND overlord
+zerg OR overlord OR overmind
+zerg AND protoss
+Facebook
+google
+yahoo
+bing
+zerg
+protoss
+terran
+overlord
+overmind

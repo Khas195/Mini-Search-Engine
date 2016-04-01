@@ -1,0 +1,147 @@
+--------------------------------------------------
+Query 1 : Facebook AND google OR Yahoo AND bing 
+Time :0ms
+Files contain : 
+d0025.txt
+d0053.txt
+d0085.txt
+
+--------------------------------------------------
+Query 2 : facebook AND google AND zerg 
+Time :0ms
+Files contain : 
+d0025.txt
+
+--------------------------------------------------
+Query 3 : zerg AND protoss AND terran 
+Time :0ms
+Files contain : 
+d0025.txt
+d0034.txt
+d0069.txt
+
+--------------------------------------------------
+Query 4 : zerg AND overlord 
+Time :0ms
+Files contain : 
+d0091.txt
+d00130.txt
+
+--------------------------------------------------
+Query 5 : zerg OR overlord OR overmind 
+Time :0ms
+Files contain : 
+d0025.txt
+d0031.txt
+d0034.txt
+d0047.txt
+d0063.txt
+d0069.txt
+d0078.txt
+d0091.txt
+d00104.txt
+d00118.txt
+d00130.txt
+
+--------------------------------------------------
+Query 6 : zerg AND protoss 
+Time :0ms
+Files contain : 
+d0025.txt
+d0034.txt
+d0047.txt
+d0069.txt
+d0091.txt
+d00104.txt
+
+--------------------------------------------------
+Query 7 : Facebook 
+Time :0ms
+Files contain : 
+d0025.txt
+d0053.txt
+d0085.txt
+d00106.txt
+d00125.txt
+
+--------------------------------------------------
+Query 8 : google 
+Time :0ms
+Files contain : 
+d003.txt
+d0011.txt
+d0017.txt
+d0020.txt
+d0025.txt
+d0053.txt
+d0085.txt
+d00120.txt
+d00203.txt
+d00204.txt
+
+--------------------------------------------------
+Query 9 : yahoo 
+Time :0ms
+Files contain : 
+d003.txt
+d0025.txt
+d0085.txt
+d00120.txt
+
+--------------------------------------------------
+Query 10 : bing 
+Time :0ms
+Files contain : 
+d0096.txt
+
+--------------------------------------------------
+Query 11 : zerg 
+Time :0ms
+Files contain : 
+d0025.txt
+d0034.txt
+d0047.txt
+d0063.txt
+d0069.txt
+d0078.txt
+d0091.txt
+d00104.txt
+d00118.txt
+d00130.txt
+
+--------------------------------------------------
+Query 12 : protoss 
+Time :0ms
+Files contain : 
+d0025.txt
+d0034.txt
+d0047.txt
+d0069.txt
+d0091.txt
+d00104.txt
+
+--------------------------------------------------
+Query 13 : terran 
+Time :0ms
+Files contain : 
+d0025.txt
+d0034.txt
+d0069.txt
+
+--------------------------------------------------
+Query 14 : overlord 
+Time :0ms
+Files contain : 
+d0031.txt
+d0091.txt
+d00130.txt
+
+--------------------------------------------------
+Query 15 : overmind 
+Time :0ms
+Files contain : 
+d0091.txt
+
+--------------------------------------------------
+Insertion time : 395ms
+Total Search time : 187ms

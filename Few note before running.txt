@@ -1,0 +1,4 @@
+_This program is currently running 224 files of data that was uploaded on moodle.
+_The query existed in the folder is an example query that we used to test with other people.
+_If u change the query please keep it in fomat for the best or the correct result that you want.
+Thanks 
